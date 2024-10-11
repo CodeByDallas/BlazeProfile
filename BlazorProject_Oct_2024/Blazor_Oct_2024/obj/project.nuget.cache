@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sEXF15uAHZY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\Blazor_Oct_2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desmond Dallas\\.nuget\\packages\\delegate.sassbuilder\\1.4.0\\delegate.sassbuilder.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

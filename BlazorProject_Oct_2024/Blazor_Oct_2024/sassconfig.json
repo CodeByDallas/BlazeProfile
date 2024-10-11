@@ -1,0 +1,62 @@
+[
+  {
+    "outputFile": "wwwroot/css/Global/fonts.css",
+    "inputFile": "wwwroot/css/Global/fonts.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/colors.css",
+    "inputFile": "wwwroot/css/Global/colors.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/Collapse.css",
+    "inputFile": "wwwroot/css/Global/Collapse.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/forms.css",
+    "inputFile": "wwwroot/css/Global/forms.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/Collapse.css",
+    "inputFile": "wwwroot/css/Global/Collapse.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/Collapse.css",
+    "inputFile": "wwwroot/css/Global/Collapse.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/collapse.css",
+    "inputFile": "wwwroot/css/Global/collapse.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/collapse.css",
+    "inputFile": "wwwroot/css/Global/collapse.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/collapse.css",
+    "inputFile": "wwwroot/css/Global/collapse.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Global/buttons.css",
+    "inputFile": "wwwroot/css/Global/buttons.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/wordpress.css",
+    "inputFile": "wwwroot/css/wordpress.scss"
+  },
+  {
+    "outputFile": "Components/css/global/colors.css",
+    "inputFile": "Components/css/global/colors.scss"
+  },
+  {
+    "outputFile": "Components/css/global/fonts.css",
+    "inputFile": "Components/css/global/fonts.scss"
+  },
+  {
+    "outputFile": "Components/css/global/forms.css",
+    "inputFile": "Components/css/global/forms.scss"
+  },
+  {
+    "outputFile": "wwwroot/styles/about.css",
+    "inputFile": "wwwroot/styles/about.scss"
+  }
+]

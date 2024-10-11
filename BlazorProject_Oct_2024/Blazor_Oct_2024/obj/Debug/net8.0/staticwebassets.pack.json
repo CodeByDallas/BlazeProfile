@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Oct_2024.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blazor_Oct_2024.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\city3.jpg",
+      "PackagePath": "staticwebassets\\images\\city3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\computertable.jpg",
+      "PackagePath": "staticwebassets\\images\\computertable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\hoodie1.jpg",
+      "PackagePath": "staticwebassets\\images\\hoodie1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\hoodie2.jpg",
+      "PackagePath": "staticwebassets\\images\\hoodie2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\html.jpg",
+      "PackagePath": "staticwebassets\\images\\html.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\image3.jpg",
+      "PackagePath": "staticwebassets\\images\\image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\image5.jpg",
+      "PackagePath": "staticwebassets\\images\\image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\image6.jpg",
+      "PackagePath": "staticwebassets\\images\\image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\image8.jpg",
+      "PackagePath": "staticwebassets\\images\\image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\Global\\buttons.css",
+      "PackagePath": "staticwebassets\\styles\\Global\\buttons.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\Global\\colors.css",
+      "PackagePath": "staticwebassets\\styles\\Global\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\Global\\fonts.css",
+      "PackagePath": "staticwebassets\\styles\\Global\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\about.css",
+      "PackagePath": "staticwebassets\\styles\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\appFromGithub.css",
+      "PackagePath": "staticwebassets\\styles\\appFromGithub.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\contact.css",
+      "PackagePath": "staticwebassets\\styles\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\home.css",
+      "PackagePath": "staticwebassets\\styles\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\services.css",
+      "PackagePath": "staticwebassets\\styles\\services.css"
+    },
+    {
+      "Id": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\wwwroot\\styles\\wordpress.css",
+      "PackagePath": "staticwebassets\\styles\\wordpress.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blazor_Oct_2024.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blazor_Oct_2024.props",
+      "PackagePath": "build\\Blazor_Oct_2024.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blazor_Oct_2024.props",
+      "PackagePath": "buildMultiTargeting\\Blazor_Oct_2024.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blazor_Oct_2024.props",
+      "PackagePath": "buildTransitive\\Blazor_Oct_2024.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

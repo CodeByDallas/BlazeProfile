@@ -1,0 +1,119 @@
+﻿#button_1 {
+    padding: 0.5em 1.5em;
+    justify-content: center;
+    color: white;
+    background-color: red;
+    display: flex;
+    width: fit-content;
+    border: none;
+    border-radius: 15px
+}
+
+.button_2 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid red;
+    padding: 1rem 1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: white;
+    margin-top: 2em;
+    font-size: 1.1rem;
+    border-radius: 15px
+}
+
+.button_3 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid red;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: white;
+    border-radius: 15px
+}
+
+.read_btn {
+    background-color: rgba(28, 33, 38, 0);
+    color: red;
+    border: none;
+    margin: 10px 0px 20px 0px;
+}
+
+#myBtn {
+    border: 1px solid red;
+    border-radius: 3px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    background-color: red;
+    padding: 8px 10px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+#submit {
+    padding: 5px;
+    border: none;
+    box-shadow: 0 1rem 2rem hsla(0deg, 0%, 0%, 0.2);
+    background-color: hsla(0deg, 0%, 0%, 0.3);
+    color: white;
+    border: 1px solid var(--clr-button-color);
+    font-size: 13px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+Button {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    width: fit-content;
+    padding: 8px 10px;
+    border-radius: 3px;
+    border: 1px solid red;
+    cursor: pointer;
+    transition: ease background-color 250ms;
+    margin-top: 3%;
+    font-weight: bold;
+}
+button {
+    
+}
+
+&:hover {
+    & label
+
+{
+    z-index: 100;
+}
+
+button:hover {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    width: fit-content;
+    padding: 8px 10px;
+    border-radius: 3px;
+    border: 1px solid red;
+    cursor: pointer;
+    transition: ease background-color 250ms;
+    background-color: red;
+    opacity: 0.9;
+}
+
+
+ButtonLabel {
+    font-size: 15px;
+    color: white;
+    font-weight: 500;
+    z-index: 100;
+}

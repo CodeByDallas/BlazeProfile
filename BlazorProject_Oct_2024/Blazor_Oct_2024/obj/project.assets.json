@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Delegate.SassBuilder/1.4.0": {
+        "type": "package",
+        "build": {
+          "build/Delegate.SassBuilder.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegate.SassBuilder/1.4.0": {
+      "sha512": "3Jvvh4KvOzdy8EOFyh51M4imdjRyvdzg+WQ4Sb6osAyU9n/Wj7HAUxBbRM15Pas5gutS/zkUnDdLB1Vi5FbtvA==",
+      "type": "package",
+      "path": "delegate.sassbuilder/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "DelegateLogo_g.png",
+        "build/Delegate.SassBuilder.targets",
+        "delegate.sassbuilder.1.4.0.nupkg.sha512",
+        "delegate.sassbuilder.nuspec",
+        "readme.md",
+        "tool/sassc.exe"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Delegate.SassBuilder >= 1.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Desmond Dallas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\Blazor_Oct_2024.csproj",
+      "projectName": "Blazor_Oct_2024",
+      "projectPath": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\Blazor_Oct_2024.csproj",
+      "packagesPath": "C:\\Users\\Desmond Dallas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dalla\\source\\repos\\BlazorProject_Oct_2024\\Blazor_Oct_2024\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Desmond Dallas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Delegate.SassBuilder": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
